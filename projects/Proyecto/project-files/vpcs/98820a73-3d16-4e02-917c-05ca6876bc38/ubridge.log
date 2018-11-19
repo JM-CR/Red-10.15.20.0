@@ -4,3 +4,6 @@ UDP tunnel connecting from local port 10004 to IPv4 addresss 127.0.0.1 on port 1
 UDP tunnel connecting from local port 10000 to IPv4 addresss 192.168.127.194 on port 10010
 Source NIO listener thread for VPCS-98820a73-3d16-4e02-917c-05ca6876bc38 has started
 Destination NIO listener thread for VPCS-98820a73-3d16-4e02-917c-05ca6876bc38 has started
+Hypervisor: closing control sockets.
+Hypervisor: closing remote client connections.
+Hypervisor: stopped.
