@@ -7,3 +7,6 @@ UDP tunnel connecting from local port 10009 to IPv4 addresss 192.168.127.194 on 
 UDP tunnel connecting from local port 5001 to IPv4 addresss 192.168.127.166 on port 5011
 Source NIO listener thread for 559cc964-b0a5-4095-a046-c4b113abeb0c-1 has started
 Destination NIO listener thread for 559cc964-b0a5-4095-a046-c4b113abeb0c-1 has started
+Hypervisor: closing control sockets.
+Hypervisor: closing remote client connections.
+Hypervisor: stopped.
