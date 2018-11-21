@@ -20,8 +20,8 @@
                 "drawing_id": "109a6024-ff0b-4640-90ec-1f1dad760331",
                 "rotation": 0,
                 "svg": "<svg height=\"25\" width=\"108\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">10.15.20.0/25</text></svg>",
-                "x": -90,
-                "y": 15,
+                "x": -84,
+                "y": 22,
                 "z": 1
             },
             {
@@ -280,7 +280,7 @@
                     "dynamips_id": 1,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x6063b34c",
+                    "idlepc": "0x64073b18",
                     "idlesleep": 30,
                     "image": "c7200-adventerprisek9-mz.7200.image",
                     "image_md5sum": "1fe8d7d82cb8261a7487d543f172b985",
@@ -626,8 +626,8 @@
                 },
                 "symbol": ":/symbols/asa.svg",
                 "width": 52,
-                "x": -208,
-                "y": 267,
+                "x": -207,
+                "y": 272,
                 "z": 0
             }
         ]

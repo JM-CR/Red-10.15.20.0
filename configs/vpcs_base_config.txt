@@ -1,7 +1,7 @@
 # This the configuration for %h
 #
 # Uncomment the following line to enable DHCP
-# dhcp
+dhcp
 # or the line below to manually setup an IP address and subnet mask
 # ip 192.168.1.1 255.0.0.0
 #
